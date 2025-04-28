@@ -1,0 +1,9 @@
+h1{font-family: 'Bold';font-size: 50px;}
+nav{height: 105px;
+width: 100%;background-color: red;}
+a{font-size: 30px;text-decoration: none;color: black;}
+
+ul li{list-style: none;text-align: right;}
+
+*{margin: 0;
+padding: 0;}
